@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.txt eol=lf
+*.py eol=lf
+*.toml eol=lf
+*.lock eol=lf
+*.ipynb eol=lf
+*.csv eol=lf
